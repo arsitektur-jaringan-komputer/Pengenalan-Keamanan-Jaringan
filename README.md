@@ -3,6 +3,7 @@
 - [Pengenalan Keamanan Jaringan](#pengenalan-keamanan-jaringan)
 - [Capture The Flag](ctf/README.md)
 - [Certified Ethical Hacking](ceh/README.md)
+- [Hack The Box](htb/README.md)
 
 ## Pengenalan Keamanan Jaringan
 Keamanan Jaringan adalah materi tentang mengetahui suatu kelemahan sebuah program atau aplikasi yang berjalan. Dalam melakukan pencarian kelemahan tersebut dapat melalui berbagai macam <i>tools</i>. Terdapat berbagai metode dalam melakukan pencarian kelemahan yaitu <i>Black box</i> dan <i>white Box</i>.
