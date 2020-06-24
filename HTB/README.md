@@ -5,6 +5,7 @@ Hack The Box adalah platform yang menyediakan mesin yang memiliki celah keamanan
 ## Writeup HTB and resource by Rana Khalil
 author [Rana Khalil](https://twitter.com/rana__khalil)
 
+* [Gitbook](https://rana-khalil.gitbook.io/hack-the-box-oscp-preparation/)
 * [Hack The Box — Bashed Writeup w/o Metasploit](https://t.co/1d3s8Vztt0?amp=1)
 * [Hack The Box — Devel Writeup w/ Metasploit](https://t.co/sAT5CLcYql?amp=1)
 * [Hack The Box — Devel Writeup w/0 Metasploit](https://t.co/Xxu6pDiYLq?amp=1)
